@@ -3,7 +3,7 @@
 	<p>
 		This is the Categories.
 	<h2>Variables</h2>
-  <img src=”/UniServerZ\www\projekti1/kuva1.jpg” alt="Image"width=”104” height=”142”>
+  <img src=”C:\UniServerZ\www\projekti1/kuva1.jpg” alt="Image"width=”104” height=”142”>
 	<p>
     Muuttujien nimet alkavat aina dollarimerkillä.
 	</p>
