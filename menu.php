@@ -8,6 +8,8 @@
   <body>
   <div id="header">
     </style>
+    <br>
+    <br>
     <h1>Projekti1</h1>
   </div>
   <div id="menu">
