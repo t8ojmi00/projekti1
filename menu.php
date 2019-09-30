@@ -8,15 +8,16 @@
   <body>
   <div id="header">
     </style>
-    <h1>Projekti1</h1>
+    <br>
+    <h1>Verkkokaupan Projekti1</h1>
   </div>
   <div id="menu">
     <ul>
-		  <li><a href="index.php">Home page</a></li>
-		  <li><a href="basic.php">Tuoteryhmät</a></li>
-		  <li><a href="arrays.php">Kirjaudu sisään</a></li>
-		  <li><a href="post.php">Yhteystiedot</a></li>
-		  <li><a href="get.php">PHP GET</a></li>
+		  <li><img src="home.JPG" alt="home" height="24" width="24"><a href="index.php">Home page</a></li>
+		  <li><a href="products.php">Tuoteryhmät</a></li>
+      <li><a href="contact.php">Yhteystiedot</a></li>
+      <li><a href="login_form.php">Kirjaudu sisään</a></li>
+		  <li><a href="logout.php">Kirjaudu ulos</a></li>
 		  <li><a href="database.php">Database</a></li>
 		  <li><a href="session.php">Session</a></li>
 	 </ul>
