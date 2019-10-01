@@ -3,6 +3,6 @@
 	<p>
 		<b>Tervetuloa Verkkokaupan Projekti1 -sivuille.</b><br>
 		<br>
-		<img src="Etusivukuva.jpg" alt="Tuotteita">
+		<img src="Etusivukuva.JPG" alt="Tuotteita">
 	</p>
 <?php include "footer.php"; ?>
