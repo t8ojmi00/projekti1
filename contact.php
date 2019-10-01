@@ -1,5 +1,8 @@
 <?php include "menu.php"; ?>
+<br>
+<br>
 	<h2>Yhteystiedot</h2>
+	<br>
 	<p>
 		<address>
 		<font face="Verdana" size="4" color="#0099ff">
@@ -20,4 +23,5 @@
 			<br>
 			<br>
 			<input type="submit" name="" value="Lähetä">
+			<font face="helvetia" size="3" color="#000">
 <?php include "footer.php"; ?>
