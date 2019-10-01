@@ -5,12 +5,12 @@ body{
   widht:100%;
 }
 #header{
-  background-color: lightblue;
+  background-color: #b88e5d;
   width: 100%;
   height: 150px;
 }
 #menu{
-  background-color: coral;
+  background-color: #f7931e;
   float: left;
   widht: 150px;
   height:100%;
@@ -30,6 +30,6 @@ body{
   margin-left: 160px;
 }
 #footer{
-  background-color: coral;
+  background-color: #f7931e;
   margin-top: 150px;
 }

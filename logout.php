@@ -3,6 +3,8 @@
   session_start();
   session_destroy();
 ?>
+<br>
+<br>
 <p>
   Olet kirjautunut ulos, tervetuloa uudelleen.
 </p>
