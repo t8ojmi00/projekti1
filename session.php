@@ -6,8 +6,7 @@
     echo '<p>Tervetuloa '.$_SESSION['username'].'</p>';
   }
   else {
-    echo '<p>Tervetuloa Vieras</p>';
+    echo '<p>Tervetuloa Vieras.</p>';
   }
-
- ?>
- <?php include "footer.php" ?>
+?>
+<?php include "footer.php"; ?>
