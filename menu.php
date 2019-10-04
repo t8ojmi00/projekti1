@@ -17,7 +17,7 @@
 		  <li><a href="index.php">Home page</a></li>
 		  <li><a href="products.php">Tuoteryhmät</a></li>
       <li><a href="contact.php">Yhteystiedot</a></li>
-      <li><a href="login_form.php">Kirjaudu sisään</a></li>
+      <li><a href="login_form.php">Kirjaudu  sisään</a></li>
 		  <li><a href="logout.php">Kirjaudu ulos</a></li>
       <li><a href="get.php">PHP GET</a></li>
       <li><a href="database.php">Database</a></li>
