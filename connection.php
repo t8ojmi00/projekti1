@@ -1,9 +1,10 @@
 <?php
 	try
+	try
 	{
-	 $dsn = "mysql:host=localhost;dbname=intohj";
-	 $db = new PDO ($dsn, "phpUser", "phpPass");
-	 //print ("Connected\n");
+	 $conn_string = "mysql:host=mysli.oamk.fi;dbname=opisk_t8ojmi00";
+	 $db = new PDO ($conn_string, "t8ojmi00", "Latv1s0808");
+	 print ("Connected\n");
 	}
 	catch (PDOException $e)
 	{
