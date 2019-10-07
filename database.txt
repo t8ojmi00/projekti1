@@ -1,6 +1,6 @@
-create database intohj;
+create database projekti1;
 
-use intohj;
+use projekti1;
 
 create table customers(
 id_customers INT primary key,
@@ -13,7 +13,7 @@ insert into customers values(2,'Jill','Smith');
 insert into customers values(3,'Lisa','Jones');
 insert into customers values(4,'Bob','Brown');
 
-GRANT ALL ON projekti1.* TO 'phpUser'@'localhost' IDENTIFIED BY 'phpPass';
+GRANT ALL ON projekti1.* TO 't8ojmi00'@'mysli.oamk.fi' IDENTIFIED BY 'WwCn7wRE7GctYNnY';
 
 create table user(
 id_user INT auto_increment primary key,
